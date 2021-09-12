@@ -7,11 +7,6 @@ import Select from 'react-select'
 //json information and here we do the logic creating all the cards products
 
 const Card = ({data, addCart}) => {
-const colores= [
-    {value : 'azul', label: 'azul'},
-    {value : 'rojo', label: 'rojo'},
-    {value : 'blanco', label: 'blanco'}
-    ]
     const [select, setSelect] = useState(null)
     const onDropdownChange = (value) => {
         setSelect(value)
