@@ -1,0 +1,40 @@
+.containerFather {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerBoth {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.headerBoth {
+    background: rgb(231, 189, 190);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30%;
+}
+
+.pBoth {
+    background: rgb(252, 243, 240);
+    width: 80%;
+    height: auto;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 40px;
+    margin-bottom: 50px;
+}
+
+@media (min-width: 704px) {
+    .containerFather{
+        flex-direction: row;
+    }
+}

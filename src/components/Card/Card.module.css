@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+/* This is our css code for our cards */
+body {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 20%;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.imgOne {
+    width: 300px;
+    height: 250px;
+}
+
+.optionLetter {
+    font-family: 'Patrick Hand', cursive;
+    background: rgb(252, 243, 240);
+}
+
+.buttonCar {
+    font-family: 'Patrick Hand', cursive;
+    background: rgb(230, 184, 184);
+    border-radius: 30%;
+    display: flex;
+    align-items: baseline;
+}
+
+.containerTwo {
+    background: rgb(252, 243, 240);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: space-around;
+}
+

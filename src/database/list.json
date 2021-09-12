@@ -1,0 +1,90 @@
+[
+    {
+        "img": "https://i.ibb.co/SmXr1gW/bouquet-orquideasdos.jpg",
+        "name": "Ramo solitario de Orquídeas",
+        "colors": [{"value": "blanco", "label" : "blanco"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "rosado", "label" : "rosado"}, {"value": "lila", "label" : "lila"}, {"value": "rojo", "label" : "rojo"}, {"value": "naranja", "label" : "naranja"}, {"value": "verde manzana", "label" : "verde manzana"}],
+        "price" : 90000,
+        "id":0,
+        "category": "bouquet",
+        "count": 1
+
+    },
+    {
+        "img": "https://i.ibb.co/X3DfZyk/buquet-rosas.jpg",
+        "name": "Ramo rosas",
+        "colors": [{"value": "blanco", "label" : "blanco"}, {"value": "rosado", "label" : "rosado"}, {"value": "rojo", "label" : "rojo"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "morado", "label" : "morado"}],
+        "price" : 95000,
+        "id":1, 
+        "category": "bouquet",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/Ms4DVSw/bouquet-heliconias.jpg",
+        "name": "Ramo de Heliconias",
+        "price" : 90000,
+        "id":2,
+        "category": "bouquet",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/M5ZQs8G/bouquet-orquideas.jpg",
+        "name": "Ramo de Orquídeas",
+        "colors": [{"value": "naranja", "label" : "naranja"}, {"value": "rosado", "label" : "rosado"}, {"value": "rojo", "label" : "rojo"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "morado", "label" : "morado"}],
+        "price" : 45000,
+        "id":3,
+        "category": "bouquet",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/4Pn20vF/bouquet-cartuchos.jpg",
+        "name": "Ramo de 12 Cartuchos",
+        "colors": [{"value": "naranja", "label" : "naranja"}, {"value": "rosado", "label" : "rosado"}, {"value": "blanco", "label" : "blanco"},{"value": "rojo", "label" : "rojo"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "verde manzana", "label" : "verde manzana"}],
+        "price" : 90000,
+        "id":4,
+        "category": "bouquet",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/mSh7cwH/orqideasola.jpg",
+        "name": "Orquídea por unidad",
+        "colors": [{"value": "naranja", "label" : "naranja"}, {"value": "rosado", "label" : "rosado"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "morado", "label" : "morado"}],
+        "price" : 10000,
+        "id":5,
+        "category": "flower",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/THdSgnW/Rose.jpg",
+        "name": "Rosa por unidad",
+        "colors": [{"value": "blanco", "label" : "blanco"}, {"value": "rosado", "label" : "rosado"}, {"value": "rojo", "label" : "rojo"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "morado", "label" : "morado"}],
+        "price" : 90000,
+        "id":6,
+        "category": "flower",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/HdzCVS4/heliconia.jpg",
+        "name": "Heliconia por unidad",
+        "price" : 12000,
+        "id":7,
+        "category": "flower",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/258Jcqg/girasol.jpg",
+        "name": "Girasol por unidad",
+        "price" : 25000,
+        "id":8,
+        "category": "flower",
+        "count": 1
+    },
+    {
+        "img": "https://i.ibb.co/MMjVLjS/cartucho.jpg",
+        "name": "Cartucho por unidad",
+        "colors": [{"value": "naranja", "label" : "naranja"}, {"value": "rosado", "label" : "rosado"}, {"value": "blanco", "label" : "blanco"},{"value": "rojo", "label" : "rojo"}, {"value": "amarillo", "label" : "amarillo"}, {"value": "celeste", "label" : "celeste"}, {"value": "verde manzana", "label" : "verde manzana"}],
+        "price" : 9000,
+        "id":9,
+        "category": "flower",
+        "count": 1
+    }
+]

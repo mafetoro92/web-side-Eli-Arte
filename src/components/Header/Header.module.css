@@ -1,0 +1,33 @@
+.containerHeader {
+    background: rgb(183, 146, 157);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.containerCar {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+    font-size: 25px;
+    width: 7%;
+}
+
+.ContainerThree {
+    width: 55%;
+    line-height: 70px;
+    margin-left: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.linkHeader {
+    text-decoration: none;
+    color: black;
+}
+
+.linkCar{
+    text-decoration: none;
+    color: black;
+}

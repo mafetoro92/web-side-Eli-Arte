@@ -1,0 +1,21 @@
+.containerCart {
+    background: rgb(231, 189, 190);
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 704px) {
+    .containerCart {
+        display: grid;
+        grid-template-columns: repeat(7, 1fr);
+    }
+    .trash{
+        margin-left: 80px;
+    }
+}

@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+.containerMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pMain {
+    background: rgb(252, 243, 240);
+    width: 80%;
+    height: auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 40px;
+}
+
+.categoryMain {
+    background: rgb(231, 189, 190);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30%;
+}
+
+.containerCategories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.flowerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.link {
+    background: rgb(231, 189, 190);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30%;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.bouquet {
+    width: 300px;
+    height: 250px;
+}
+
+.flower {
+    width: 300px;
+    height: 250px;
+}
+
+
+
+@media (min-width: 704px) {
+    .containerCategories {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 50px;
+        width: 100%;
+    }
+    
+
+}
