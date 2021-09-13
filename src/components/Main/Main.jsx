@@ -13,7 +13,7 @@ const Main = () => {
 
             Por otra parte, ELI ARTE coadyuva a decorar diferentes eventos como bodas, bautizos, fiestas, entre otros. Somos una empresa que ofrece los productos artesanales de la mejor calidad a precios económicos. </p>
 
-            <h1 className={styles.categoryMain}>Categorias</h1>
+            <h1 className={styles.categoryMain}>Categorías</h1>
 
             <div className={styles.containerCategories}>
                 <div className={styles.flowerContainer}>

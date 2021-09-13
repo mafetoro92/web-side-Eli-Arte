@@ -20,7 +20,7 @@ import { AppProvider } from './components/Context/AppContext';
 export const App = () => {
   return (
       
-      <AppProvider> {/*Call my component who have the context */}
+      <AppProvider> {/*wrap what components can have access the variables are in our context */}
       <Router>
 
         <Switch>
