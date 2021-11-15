@@ -19,7 +19,7 @@ export class AppProvider extends Component {
         const {products, cart} = this.state;
         const check = cart.every(item =>{ //every return a boolean value
             return item.id !== _id // if its no equal return true  and if are equal return false
-        })
+        }) 
         if(check){
             const data = products.filter(product =>{
                 return product.id === _id //want to see if is the same id will be saving all the object in the data variable

@@ -2,6 +2,7 @@ import React from 'react'
 import styles from './Footer.module.css'
 import {FaInstagramSquare} from 'react-icons/fa'
 
+
 //Here is a component for our footer.
 const Footer = () => {
     return (

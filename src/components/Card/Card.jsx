@@ -10,7 +10,6 @@ const Card = ({data, addCart}) => {
     const [select, setSelect] = useState(null)
     const onDropdownChange = (value) => {
         setSelect(value)
-        console.log(value)
     }
 
     
